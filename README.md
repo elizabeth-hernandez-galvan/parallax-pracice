@@ -1,6 +1,3 @@
 # Bitwise Mobile Friendly Class - Summer 2021
 
-### Learned about best Folder practices and created the following folders:
-- [x] CSS
-- [x] JS
-- [x] Imgs
+### Worked on recreating [mocksite example](https://geekwiseacademy.github.io/virtual-mobile-friendly-websites/img/parallax-practice.jpg) using bootstrap
